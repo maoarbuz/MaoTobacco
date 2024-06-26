@@ -15,7 +15,7 @@ MaoTobacco is a Minecraft plugin that adds a variety of cigarettes to the game, 
 
 ## Installation
 
-1. Download the latest release of MaoTobacco from the [releases page](https://github.com/your-repo/MaoTobacco/releases).
+1. Download the latest release of MaoTobacco from the [releases page](https://github.com/maoarbuz/MaoTobacco/releases).
 2. Place the downloaded `.jar` file in your server's `plugins` directory.
 3. Restart the server to load the plugin.
 
