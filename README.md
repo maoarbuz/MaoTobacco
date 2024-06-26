@@ -44,4 +44,4 @@ Players can use the cigarettes by holding them in their main hand and interactin
 
 ## Credits
 
-Developed by [Your Name](https://github.com/maoarbuz).
+Developed by [MaoArbuz](https://github.com/maoarbuz).
