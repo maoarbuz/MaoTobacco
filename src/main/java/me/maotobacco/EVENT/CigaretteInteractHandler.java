@@ -21,7 +21,7 @@ public class CigaretteInteractHandler implements Listener {
                 Cigarette cigarette = CigaretteRegistry.getCigaretteByCustomModelData(meta.getCustomModelData());
                 if (cigarette != null) {
                     cigarette.onInteract(player);
-                    event.setCancelled(true); // Остановить дальнейшую обработку события
+                    event.setCancelled(true);
                 }
             }
         }
